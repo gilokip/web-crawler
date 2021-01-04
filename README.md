@@ -16,4 +16,4 @@ Once all requirments are installed, run the project using:
 
 `python web-crawler.py`
 
-You will be prompted to enter a search keyword. Navigate to the installed directory "GoogleImages"
+You will be prompted to enter a search keyword. Navigate to the installed directory "GoogleImages" to find the downloaded images.
